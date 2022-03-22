@@ -16,7 +16,7 @@
 
 ## 🧩 Would like to collaborate ...
 - Upgrade the Netlify deployment to a landing page form that writes to an SQL db and initiates CX opt-in 
-- Wordpress/MySQL on Oracle - Please contact me if you are interested in doing UI and content for the site and I will set up analytics using Heatwave
+- Wordpress/MySQL on Oracle - Please contact me if you are interested in doing UI/Content for the site and I will set up analytics using Heatwave. Residential Solar Funnel webapp is one use case.
 
 
 ## 📫 How to reach me ...
