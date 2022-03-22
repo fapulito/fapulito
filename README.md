@@ -1,18 +1,18 @@
-- 👋 Hi, I’m @fapulito
-IG - @hausdogca
+- 👋 Hi, I’m @fapulito 
+- IG - @hausdogca
 
 - 👀 I’m interested in ...
-Analytics
-Azure ML Studio
-General Data Science & Analysis
+- Analytics
+- Azure ML Studio
+- General Data Science & Analysis
 
 - 🌱 I’m currently learning ...
-Spark/Livy/R/Python workflow
-Databricks/Azure Synapse
-Snowflake/Azure Blob/Oracle S3 pipelines
-NoSQL/Cassandra/Scylla
-GraalVM/Micronaut/OKE
-DevSecOps with JFrog 
+- Spark/Livy/R/Python workflow
+- Databricks/Azure Synapse
+- Snowflake/Azure Blob/Oracle S3 pipelines
+- NoSQL/Cassandra/Scylla
+- GraalVM/Micronaut/OKE
+- DevSecOps with JFrog 
 
 - 💞️ I’m looking to collaborate on ...
 - Upgrade the Netlify deployment to a landing page form that writes to an SQL db and initiates CX opt-in 
@@ -20,7 +20,7 @@ DevSecOps with JFrog
 
 
 - 📫 How to reach me ...
-fapulito <> gmail
+- fapulito <> gmail
 
 <!---
 fapulito/fapulito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
