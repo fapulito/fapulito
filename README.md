@@ -12,7 +12,7 @@
 - Snowflake/Azure Blob/Oracle S3 pipelines
 - NoSQL/Cassandra/Scylla
 - GraalVM/Micronaut/OKE
-- DevSecOps with JFrog 
+- DevSecOps
 
 ## 🧩 Would like to collaborate ...
 - Upgrade the Netlify deployment to a landing page form that writes to an SQL db and initiates CX opt-in 
