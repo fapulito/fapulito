@@ -19,9 +19,6 @@
 - Wordpress/MySQL on Oracle - Please contact me if you are interested in doing UI/Content for the site and I will set up analytics using Heatwave. Residential Solar Funnel webapp is one use case.
 
 
-## 📫 How to reach me ...
-- fapulito <> gmail
-
 <!---
 fapulito/fapulito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
