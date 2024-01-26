@@ -2,21 +2,22 @@
 - IG - @hausdogca
 
 ## 👀 I’m interested in ...
+- DevOps
 - Analytics
-- Azure ML Studio
+- Web Development | Domain Email
 - General Data Science & Analysis
 
 ## 🌱 I’m currently learning ...
-- Spark/Livy/R/Python workflow
-- Databricks/Azure Synapse
-- Snowflake/Azure Blob/Oracle S3 pipelines
+- LLM Development including RAG
+- Web3 with Juno
+- Snowflake/Azure Blob/S3 pipelines
 - NoSQL/Cassandra/Scylla
 - GraalVM/Micronaut/OKE
 - DevSecOps
 
-## 🧩 Would like to collaborate ...
-- Upgrade the Netlify deployment to a landing page form that writes to an SQL db and initiates CX opt-in 
-- Wordpress/MySQL on Oracle - Please contact me if you are interested in doing UI/Content for the site and I will set up analytics using Heatwave. Residential Solar Funnel webapp is one use case.
+## 🧩 Seeking New Opportunities ...
+- Actively seeking an opportunity in DevOps or Product Management
+- Contact me to discuss my portfolio of web domains!
 
 
 <!---
